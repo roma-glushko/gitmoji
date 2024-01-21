@@ -1,0 +1,2 @@
+# gitmoji
+My personal gitmoji
